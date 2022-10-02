@@ -1,0 +1,5 @@
+add all songs in the music list
+add the ad and queue it
+check if the ad is playing and flag it if it is
+if the flag of the ad playing is true, reset the flag to false and remove it from the list
+
